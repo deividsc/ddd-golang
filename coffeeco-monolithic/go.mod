@@ -5,6 +5,7 @@ go 1.19
 require (
 	github.com/Rhymond/go-money v1.0.9
 	github.com/google/uuid v1.3.0
+	github.com/stripe/stripe-go/v73 v73.16.0
 	go.mongodb.org/mongo-driver v1.11.2
 )
 
